@@ -1,0 +1,13 @@
+[core]
+strictLevel: 1
+logIfCreditResourceUsed:true
+
+[global_resource_Crystal]
+#global resource, shared with all units on team
+displayName: Crystal
+displayColor:#00E700
+
+[global_resource_Obsidian]
+#global resource, shared with all units on team
+displayName: Obsidian
+displayColor:#E300E3

@@ -1,0 +1,8 @@
+[mod]
+title: Crystal and Obsidian
+description: Mod adding two new fracies:Obsidian and Crystal
+
+tags: Units
+
+thumbnail: mod-thumbnail.png
+
